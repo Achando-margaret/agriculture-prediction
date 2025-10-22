@@ -37,12 +37,12 @@ Visualizations
 1. Actual vs. Predicted Yield
 This scatter plot shows a strong correlation between our model's predictions and the actual harvest data.
 
-![Actual vs. Predicted Plot](Screenshot from 2025-10-22 00-12-58.png)
+![Actual vs. Predicted Plot](Screenshot1.jpg)
 
 2. Key Predictive Factors
 Rainfall and region were identified as the most significant factors influencing crop yield, highlighting the importance of location-specific climate data.
 
-![Feature Importance Plot](Screenshot from 2025-10-22 00-13-31.png)
+![Feature Importance Plot](Screenshot2.jpg)
 
 ⚙️ How to Run This Project
 Clone the repository:
