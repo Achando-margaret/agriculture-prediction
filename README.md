@@ -1,4 +1,4 @@
-agri_predict_kenya
+AGRICULTURE_PREDICTION
 Using Machine Learning to Forecast Crop Yields and Ensure Food Security in Kenya.
 
 This project is an AI-driven solution designed to address the UN Sustainable Development Goal 2: Zero Hunger. By leveraging historical agricultural and climate data, Mavuno AI predicts crop yields for staple crops in Kenya, providing valuable insights to farmers and policymakers.
